@@ -1,0 +1,97 @@
+body{
+    font-family: 'PT Serif', serif; ;
+}
+h1 {
+    font-size: 50px;
+    padding-left: 10px;
+}
+.border-line {
+    border-left: 5px solid orange;
+    border-width: relative;
+    position: relative;
+    
+}
+.heading-color {
+    color: orange;
+}
+.mission{
+    display: flex;
+    padding-left: 30px;
+    padding-right: 20px;
+}
+.half-width {
+    width: 50%;
+    padding-left: 5%;
+    
+   
+}
+.text-allignment{
+    text-align: justify;
+    padding-bottom: 10px;
+ 
+}
+.text-padding{
+    padding-top: 20px;
+}
+.half-width img {
+    width: 60%;
+    margin-top: -60px;
+}
+.hire-me{
+    text-decoration: none;
+    text-align: center;
+    text-align: justify;
+    background-color: orange;
+    padding: 10px 40px;
+    border-radius: 5%;
+    color: white;
+    font-weight: 700;
+}
+#mission-header{
+    text-align: center;
+    font-size: 40px;
+}
+.year{
+    color: orange;
+}
+.vision-goal{
+    display: flex;
+    padding-left:7%;
+    
+
+}
+.one-third-width{
+    width: 33.33%;
+    margin: 10px;
+
+}
+.one-third-width img{
+   width: 40% ;
+
+   
+}
+.box-one{
+    background-color: rgb(243, 193, 241);
+    padding: 3%;
+    background-repeat: no-repeat;
+    border-radius: 2em;
+    text-align: justify;
+    
+}
+.box-two{
+    background-color: rgb(206, 206, 245);
+    padding: 3%;
+    background-repeat: no-repeat;
+    border-radius: 2em;
+    text-align: justify;
+
+    
+}
+.box-three{
+    background-color: rgb(245, 245, 194);
+    padding: 3%;
+    background-repeat: no-repeat;
+    border-radius: 2em;
+    text-align: justify;
+
+}
