@@ -95,3 +95,128 @@ h1 {
     text-align: justify;
 
 }
+.my-education{
+    display: flex;
+    padding-left:4%;
+    margin: 35px;
+    background-image: url(images/shapes/shape-3.png);
+    background-size: 20%;
+    background-repeat:no-repeat;
+    background-position:left;
+   
+    
+    
+}
+.my-education img{
+    width: 450px;
+    border-image-slice:1%;
+
+}
+#Education-header{
+    font-size: 40px;
+    padding-left:50px;
+    padding-top: 40px;
+
+}
+#Education-paragraph{
+    padding-left:50px;
+    padding-top: 10px;
+    text-align: justify;
+
+}
+.my-experience{display: flex;
+    padding-right:4%;
+    margin: 35px;
+    background-image: url(images/shapes/shape-3.png);
+    background-size: 20%;
+    background-repeat:no-repeat;
+    background-position:bottom right;
+    padding-top:30px ;
+    padding-left: 4%;
+
+}
+.my-experience img{
+    width: 440px;
+    border-image-slice:1%;
+}
+#Experience-header{
+    font-size: 40px;
+    padding-right:50px;
+    padding-top: 40px;
+
+}
+#Experience-paragraph{
+    padding-right:50px;
+    padding-top: 10px;
+    text-align: justify;
+
+}
+.Education-certificate{
+    text-decoration: none;
+    text-align: center;
+    text-align: justify;
+    background-color: orange;
+    padding: 10px 40px;
+    border-radius: 5%;
+    color: white;
+    font-weight: 700;
+}
+.Experience-documentation{
+    text-decoration: none;
+    text-align: center;
+    text-align: justify;
+    background-color: orange;
+    padding: 10px 40px;
+    border-radius: 5%;
+    color: white;
+    font-weight: 700;
+}
+
+#Contact{
+    text-align: center;
+    font-size: 40px;
+    color:rgb(216, 157, 48);
+
+}
+.contact{
+    display: flex;
+    padding-left:7%;
+    
+}
+.one-fourth{
+    width: 33%;
+    margin: 10px;
+    font-size: 25px;
+
+}
+.one-fourth img{
+    width: 25%;
+}
+.location{
+    background-color: rgb(138, 172, 245);
+    padding: 3%;
+    background-repeat: no-repeat;
+    border-radius: 2em;
+    text-align: center;
+    
+}
+.phone{
+    background-color: rgb(138, 172, 245);
+    padding: 3%;
+    background-repeat: no-repeat;
+    border-radius: 2em;
+    text-align: center;
+}
+.email{
+    background-color: rgb(138, 172, 245);;
+    padding: 3%;
+    background-repeat: no-repeat;
+    border-radius: 2em;
+    text-align: center;
+}
+footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding:2%;
+}
